@@ -3,3 +3,5 @@ Welcome to recipies
 appam
 puttu
 kadala
+chicken
+beef
