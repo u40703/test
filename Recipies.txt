@@ -11,5 +11,8 @@ pastha
 pisa
 donets
 soups
+kappa
+biriyani
+
 
 thanks
