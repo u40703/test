@@ -5,5 +5,7 @@ puttu
 kadala
 chicken
 beef
+kappa
+biriyani
 
 thanks
