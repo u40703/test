@@ -5,10 +5,11 @@ puttu
 kadala
 chicken
 beef
-
+rotty
 noodles 
 pastha
 pisa
 donets
+soups
 
 thanks
