@@ -5,7 +5,14 @@ puttu
 kadala
 chicken
 beef
+rotty
+noodles 
+pastha
+pisa
+donets
+soups
 kappa
 biriyani
+
 
 thanks
